@@ -52,3 +52,7 @@
          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suonsopanha&show_icons=true&locale=en&layout=compact" alt="suonsopanha" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suonsopanha&show_icons=true&locale=en" alt="suonsopanha" /></p>
