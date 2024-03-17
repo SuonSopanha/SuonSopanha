@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on TaxiBus_Booking_Website
   <br>
 
-- 🌱 I’m currently learning Deno,Sequalize
+- 🌱 I’m currently learning Deno,Sequalize,TypeScript,Nextjs
   <br>
 
 - 💬 Ask me about Nodejs,Javascript
