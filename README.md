@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suon Sopanha</h1>
 <h3 align="center">Web Dev Newbie</h3>
 
-- 🔭 I’m currently working on TaxiBus_Booking_Website
+- 🔭 I’m currently working on BookBT and Online-Task-Management-Website
   <br>
 
 - 🌱 I’m currently learning Deno,Sequalize,TypeScript,Nextjs
@@ -13,7 +13,7 @@
 - 📫 How to reach me suonsopanha168@gmail.com
   <br>
 
-- ⚡ Fun fact I like Peotry
+- ⚡ Fun fact I like Peotry and Kubology
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
