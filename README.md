@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on BookBT and Online-Task-Management-Website
   <br>
 
-- 🌱 I’m currently learning Deno,Sequalize,TypeScript,Nextjs,laravel
+- 🌱 I’m currently learning Deno,TypeScript,Nextjs,Hono,Bun
   <br>
 
 - 💬 Ask me about Nodejs,Javascript
