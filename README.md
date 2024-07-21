@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning Deno,TypeScript,Nextjs,Hono,Bun
   <br>
 
-- 💬 Ask me about Nodejs,Javascript
-  <br>
-
 - 📫 How to reach me suonsopanha168@gmail.com
   <br>
 
