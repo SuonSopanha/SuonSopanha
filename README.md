@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on BookBT and Online-Task-Management-Website
   <br>
 
-- 🌱 I’m currently learning Deno,TypeScript,Nextjs,Hono,Bun,Vue,Nuxtjs
+- 🌱 I’m currently learning TypeScript,Nextjs,Hono,Bun,Vue,Nuxtjs
   <br>
 
 - 📫 How to reach me suonsopanha168@gmail.com
