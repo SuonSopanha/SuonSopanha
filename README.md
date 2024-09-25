@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suon Sopanha</h1>
 <h3 align="center">Web Dev Newbie</h3>
-
-- 🔭 I’m currently working on BookBT and Online-Task-Management-Website
-  <br>
-
-- 🌱 I’m currently learning TypeScript,Nextjs,Hono,Bun,Vue,Nuxtjs
-  <br>
-
-- 📫 How to reach me suonsopanha168@gmail.com
-  <br>
-
-- ⚡ Fun fact I like Peotry and Kubology
-  <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
